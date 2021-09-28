@@ -1,2 +1,6 @@
-# testwebsite01
-this is a test project for GitHub Pages
+# This is my wonderful new website
+
+* some smart points
+* another one
+
+lorem ipsum.....
