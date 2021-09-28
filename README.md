@@ -2,6 +2,7 @@
 
 * some smart points
 * another one
-* Hello!
+* Hello
+* This is another change
 
 lorem ipsum.....
